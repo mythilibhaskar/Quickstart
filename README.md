@@ -3,5 +3,6 @@ Commands iam going to test
 * add
 * commit
 * diff
-* git push -u
+* git push -u hai yar
+* 
 * 
