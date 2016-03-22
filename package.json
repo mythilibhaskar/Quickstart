@@ -1,0 +1,23 @@
+{
+  "name": "quickstart",
+  "version": "1.0.0",
+  "description": "My Quickstart project\r Commands iam going to test\r * add\r * commit\r * diff\r * git push",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mythilibhaskar/Quickstart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mythilibhaskar/Quickstart/issues"
+  },
+  "homepage": "https://github.com/mythilibhaskar/Quickstart#readme",
+  "devDependencies": {
+    "eslint": "^2.4.0",
+    "eslint-config-google": "^0.4.0"
+  }
+}
