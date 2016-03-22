@@ -1,1 +1,12 @@
 /* TODO */
+
+.item{
+    opacity: 0;
+    transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -webkit-transition: all 1s ease-in-out;
+}
+.item-selected{
+  opacity: 1;
+transform: rotate(90deg) translateX(300px);
+}
